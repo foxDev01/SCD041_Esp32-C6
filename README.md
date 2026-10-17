@@ -130,3 +130,7 @@ lib/           — сторонние библиотеки (SCD4x, PubSubClient,
 - PubSubClient
 - ArduinoJson
 - ESPAsyncWebServer (в `lib_deps`)
+
+## Лицензия
+
+Проект распространяется под лицензией [MIT](LICENSE).
